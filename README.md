@@ -3,7 +3,7 @@
 🔭 I’m currently working at We Fly With Drones as a freelance writer.
 - https://weflywithdrones.com/author/sfreeman/
 
-- How to reach me:
+📫 How to reach me:
 - https://www.instagram.com/surifreeman/
 - https://twitter.com/surifreeman
 - https://www.flickr.com/people/surifreeman/
@@ -11,7 +11,7 @@
 - https://surifreeman.substack.com
 - https://surifreeman.hashnode.dev
 
-- 😄 Pronouns: She/Her
+😄 Pronouns: She/Her
 
 <!--
 **surifreeman/surifreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
