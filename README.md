@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working at We Fly With Drones as a freelance writer.
+- https://weflywithdrones.com/author/sfreeman/
+
 <!--
 **surifreeman/surifreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
